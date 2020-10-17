@@ -18,7 +18,7 @@ function smallestCommons(arr) {
 
 
 
-// special metion JanEgbers from the freeCodeCamp forum who came up with this simple but amazing chunk of code 
+// special mention to JanEgbers from the freeCodeCamp forum who came up with this simple but amazing chunk of code 
 // and by which I was inspired to come up with my solution.
 function smallestCommons(arr) {
 
